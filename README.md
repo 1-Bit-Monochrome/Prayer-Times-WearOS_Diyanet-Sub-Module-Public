@@ -22,8 +22,6 @@ While the source code and data are visible, **they are not Open Source** in the 
 All rights are reserved by **1-Bit-Monochrome**. Any unauthorized use, copying, or distribution of the materials in this repository is strictly prohibited.
 
 For the full legal terms, please read the **[LICENSE](LICENSE.md)** file.
-
-For the full legal terms, please read the **[LICENSE](LICENSE.md)** file.
 For the full privacy policy, please read the **[PRIVACY POLICY](PRIVACY_POLICY.md)** file.
 
 ---
