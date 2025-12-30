@@ -23,5 +23,8 @@ All rights are reserved by **1-Bit-Monochrome**. Any unauthorized use, copying, 
 
 For the full legal terms, please read the **[LICENSE](LICENSE.md)** file.
 
+For the full legal terms, please read the **[LICENSE](LICENSE.md)** file.
+For the full privacy policy, please read the **[PRIVACY POLICY](PRIVACY_POLICY.md)** file.
+
 ---
 *By accessing this repository, you agree to abide by these terms.*
